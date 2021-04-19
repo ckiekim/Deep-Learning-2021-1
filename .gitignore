@@ -6,6 +6,8 @@ chromedriver.exe
 tree.dot
 corpus/
 model/
+kakaoaikey.txt
+etriaikey.txt
 
 # Editors
 .vscode/
